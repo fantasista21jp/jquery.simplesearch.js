@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#seachtable,
+#seachtable th,
+#seachtable td {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: solid 1px #333;
+}
+
+#seachtable th {
+  background: #999;
+  color: #FFF;
+}
